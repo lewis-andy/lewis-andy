@@ -30,3 +30,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lewis-andy&show_icons=true&locale=en" alt="lewis-andy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lewis-andy&" alt="lewis-andy" /></p>
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=lewis-andy&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=lewis-andy&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
