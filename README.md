@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lewis Andanje</h1>
 <h3 align="center">A passionate fullstack developer and software Engineer</h3>
 
-- 🔭 I’m currently working on **task management**
+- 🔭 I’m currently working on **task management.**
 
 - 🌱 I’m currently learning **Django, Php reactjs**
 
